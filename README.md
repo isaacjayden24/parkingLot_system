@@ -22,4 +22,10 @@ It provides features such as real-time monitoring, space availability tracking, 
 ## Technologies Used
 -Java
 - Frontend: JavaFx
+- Intellij 
+## Installation
+clone the repository
+https://github.com/isaacjayden24/parkingLot_system.git
+
+  
 
