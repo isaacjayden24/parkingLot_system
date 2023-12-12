@@ -1,6 +1,7 @@
 # Parking Lot Management System
 
 ![Parking Lot Image](link_to_image.png)
+![Parking Lot Image 1](https://github.com/isaacjayden24/parkingLot_system/assets/113999137/a2cc5175-4dcd-43a4-a0a0-6850ea78e4af){ width=400px }
 
 ## Overview
 
