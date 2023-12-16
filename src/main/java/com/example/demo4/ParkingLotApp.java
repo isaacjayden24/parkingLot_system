@@ -111,5 +111,6 @@ public class ParkingLotApp extends Application {
         Scene scene = new Scene(mainLayout, 800, 400);
         primaryStage.setScene(scene);
         primaryStage.show();
+        //checking some comments !
     }
 }
